@@ -27,6 +27,7 @@
 
 - (void)objectLiterals
 {
+    //test commit 
     NSNumber *number = @1;
     NSArray *arr = @[@"first",@"second"]; //array 的方法，不是mutable的
     NSDictionary *dic = @{@"firstKey": @"firstObject",@"secondKey": @"secondObject"}; //dictionary 的方法，不是mutable的
